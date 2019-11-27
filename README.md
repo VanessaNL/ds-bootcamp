@@ -7,3 +7,6 @@ more
 more
 again
 again
+
+a = 10
+a = a+1
